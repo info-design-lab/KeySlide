@@ -1,0 +1,122 @@
+{
+  "1": {
+    "word": "Speech",
+    "replacement": "Speak"
+  },
+  "2": {
+  	"word": "Although",
+  	"replacement": "Anyways"
+  },
+  "3": {
+  	"word": "womn",
+  	"replacement": "women"
+  },
+  "4": {
+  	"word": "citation",
+  	"replacement": "cite"
+  },
+  "5": {
+  	"word": "nice",
+  	"replacement": "nicely"
+  },
+  "6": {
+  	"word": "serve",
+  	"replacement": "several"
+  },
+  "7": {
+  	"word": "comprehense",
+  	"replacement": "comprehensive"
+  },
+  "8": {
+  	"word": "stude",
+  	"replacement": "study"
+  },
+  "9": {
+  	"word": "need",
+  	"replacement": "needed"
+  },
+  "10": {
+  	"word": "novice",
+  	"replacement": "novices"
+  },
+  "11": {
+  	"word": "casuist",
+  	"replacement": "casuistry"
+  },
+  "12": {
+  	"word": "Pragmatic",
+  	"replacement": "Pragmatics"
+  },
+  "13": {
+  	"word": "empasize",
+  	"replacement": "emphasize"
+  },
+  "14": {
+  	"word": "incidnt",
+  	"replacement": "incident"
+  },
+  "15": {
+  	"word": "statents",
+  	"replacement": "statements"
+  },
+  "16": {
+  	"word": "usual",
+  	"replacement": "ordinary"
+  },
+  "17": {
+  	"word": "acknowledge",
+  	"replacement": "acknowledges"
+  },
+  "18": {
+  	"word": "Insincre",
+  	"replacement": "Insincere"
+  },
+  "19": {
+  	"word": "Phsophical",
+  	"replacement": "Philosophical"
+  },
+  "20": {
+  	"word": "ambiguity",
+  	"replacement": "uncertainity"
+  },
+  "21": {
+  	"word": "refr",
+  	"replacement": "refrain"
+  },
+  "22": {
+  	"word": "conceptuall",
+  	"replacement": "conceptually"
+  },
+  "23": {
+  	"word": "intnalist",
+  	"replacement": "internalist"
+  },
+  "24": {
+  	"word": "capacity",
+  	"replacement": "capacities"
+  },
+  "25": {
+  	"word": "delberately",
+  	"replacement": "deliberately"
+  },
+  "26": {
+  	"word": "explict",
+  	"replacement": "explicit"
+  },
+  "27": {
+  	"word": "practical",
+  	"replacement": "impractical"
+  },
+  "28": {
+  	"word": "ansr",
+  	"replacement": "answer"
+  },
+  "29": {
+  	"word": "irreproachble",
+  	"replacement": "irreproachable"
+  },
+  "30": {
+  	"word": "buttresed",
+  	"replacement": "buttressed"
+  }
+}

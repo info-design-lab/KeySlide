@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fast-nav",
+        "command": "fast-nav:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fast-nav",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fast-nav:toggle"
+            },
+            {
+              "label": "Train",
+              "command": "fast-nav:training"
+            },
+            {
+              "label": "Test",
+              "command": "fast-nav:testing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

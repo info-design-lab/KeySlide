@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "alt-o": "fast-nav:toggle",
+    "alt-t": "fast-nav:testing"
+  }
+}
