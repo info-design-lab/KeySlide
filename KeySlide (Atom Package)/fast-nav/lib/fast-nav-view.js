@@ -19,13 +19,18 @@ export default class FastNavView {
     this.element.style.top = "50px";
     this.color = "red";
 
-    this.parent = atom.views.getView(atom.workspace).querySelector('.vertical .item-views .scroll-view').firstChild;
-    this.parent.appendChild(this.element);
+    if(atom.views.getView(atom.workspace).querySelector('.vertical .item-views .scroll-view')){
+      this.parent = atom.views.getView(atom.workspace).querySelector('.vertical .item-views .scroll-view').firstChild;
+      this.parent.appendChild(this.element);
 
-    this.dimensions = [
-      this.parent.offsetWidth,
-      this.parent.offsetHeight
-    ];
+      this.dimensions = [
+        this.parent.offsetWidth,
+        this.parent.offsetHeight
+      ];
+    }
+
+
+
 
     // Create message element
     //const message = document.createElement('div');
