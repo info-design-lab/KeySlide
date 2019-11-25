@@ -50,6 +50,10 @@ export default {
 		}
 
 		const editor = atom.workspace.getActiveTextEditor();
+
+		if(editor == undefined){
+			return;
+		}
 		//console.log(editor.scan(/emad/i));
 		editorView = atom.views.getView(editor);
 
